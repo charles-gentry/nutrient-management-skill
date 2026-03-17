@@ -11,12 +11,13 @@ This skill provides nutrient management recommendations based on the AHDB RB209 
  
 When answering nutrient management questions, follow this decision process:
  
-1. **Identify the crop sector** — which reference file to consult:
+1. **Identify the crop sector or topic** — which reference file to consult:
    - Arable crops (cereals, oilseeds, sugar beet, peas, beans) → read `references/arable.md`
    - Grass and forage → read `references/grass.md`
    - Potatoes → read `references/potatoes.md`
    - Vegetables and bulbs → read `references/vegetables.md`
    - Fruit, vines and hops → read `references/fruit.md`
+   - Organic materials (manures, slurries, digestates, biosolids, compost, waste-derived materials) → read `references/organic-materials.md`
  
 2. **For any question**, also consult `references/principles.md` which contains:
    - Soil Index classification tables (P, K, Mg — Index 0–9)
@@ -27,7 +28,7 @@ When answering nutrient management questions, follow this decision process:
    - Soil pH targets
    - General nutrient management principles
  
-3. **For organic materials** (manures, slurries, digestates), the user should be referred to Section 2 of RB209. Key principles: always deduct crop-available nutrients from organic materials before calculating fertiliser requirements.
+3. **For organic materials** (manures, slurries, digestates, biosolids, compost), consult `references/organic-materials.md` for nutrient content tables, crop-available nitrogen percentages by timing and soil type, and the 6-step process for calculating fertiliser requirements after deducting organic material contributions.
  
 ## Key concepts
  
