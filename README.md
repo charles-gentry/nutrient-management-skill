@@ -54,7 +54,7 @@ SNS Index (0–6) estimates background nitrogen available to the crop. It depend
  
 Always remind users that:
 - Recommendations assume good soil structure, adequate water supply, and effective pest/disease control
-- Organic material contributions must be deducted from fertiliser recommendations (Section 2: Organic Materials)
+- Organic material contributions must be deducted from fertiliser recommendations
 - NVZ and Farming Rules for Water regulations may impose additional constraints
 - Soil sampling should be done every 3–5 years
 - Professional agronomic advice should complement these guidelines
